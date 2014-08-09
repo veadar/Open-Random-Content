@@ -8,13 +8,13 @@ Run "Open Random Content" then open random content.
 
 For example,watch movie,reading manga,listen music.
 
-##Screenshot
+##Screencast
 
 ![gif](screencast.gif)
 
 ##Download
 
-Click Here → [Download]()
+Click Here → [Download](https://github.com/veadar/Open-Random-Content/releases)
 
 ##Special Thanks & Used Codes
 
